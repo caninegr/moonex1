@@ -112,7 +112,7 @@ a {
   }
 
   &:hover {
-    color: var(--ptf-accent-1);
+    color: #00a69a;
 
     .ptf-is--home-dark & {
       color: var(--ptf-color-white);
@@ -154,7 +154,7 @@ h1,
 
   @include mq("xlarge", min) {
     &.large-heading {
-      font-size: px2rem(80px);
+      font-size: px2rem(60px);
       line-height: 1.1;
     }
   }
