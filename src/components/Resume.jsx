@@ -2,64 +2,64 @@ import React from "react";
 
 const resumeContent = [
   {
-    year: "2014",
+    year: "2000 - 2006",
     delayAnimation: "",
     infoContent: [
       {
-        title: " Bachelor Degree of Design",
-        subTitle: "RMIT University",
+        title: "τμήμα Φυσικοθεραπείας",
+        subTitle: "Διεθνές Πανεπιστήμιο Ελλάδος",
       },
       {
-        title: "UI/UX Design Certificate",
-        subTitle: " University of Houston, US",
+        title: "εθελοντική εργασία",
+        subTitle: "φιλοζωικές οργανώσεις",
+      },
+      {
+        title: "πρακτική άσκηση",
+        subTitle: "κλινική Mühlengrund, Reinhardshausen, Γερμανία",
+      },      
+    ],
+  },
+  {
+    year: "2007 - 2019",
+    delayAnimation: "",
+    infoContent: [
+      {
+        title: "πλήρης εργασία",
+        subTitle: "κτηνιατρικό κέντρο Fachtierarzt Leonding, Αυστρία",
+      },
+      {
+        title: "Canine Rehabilitation",
+        subTitle: "University of Tennessee, USA",
+      },
+      {
+        title: "πιστοποίηση CCRP",
+        subTitle: "University of Tennessee, USA",
+      },
+      {
+        title: "παροχή φυσικοθεραπειών",
+        subTitle: "σε κτηνιατρικό κέντρο, Θεσσαλονίκη",
       },
     ],
   },
   {
-    year: "2015 - 2019",
+    year: "2019 - Σημερα",
     delayAnimation: "",
     infoContent: [
       {
-        title: "Design Internship",
-        subTitle: "CMC Corporation, UK",
+        title: "παραδοσιακός και βιοϊατρικός βελονισμός",
+        subTitle: "ΕΦΕΑ & ΠΑΔΑ",
       },
       {
-        title: "Graphic Designer",
-        subTitle: "Tripadvisor Ltd, UK",
+        title: "δημιουργία ιδιωτικού χώρου",
+        subTitle: "αποκλειστικά για φυσικοθεραπεία",
       },
       {
-        title: "Leader Graphic Design",
-        subTitle: "New Centery Media JSC, UK",
+        title: "παροχή υδροθεραπειών",
+        subTitle: "σε συνεργασία με Cane Sentio",
       },
       {
-        title: "Web Designer",
-        subTitle: "Freelancer",
-      },
-      {
-        title: "Web Designer/ Author",
-        subTitle: "Envato Market",
-      },
-    ],
-  },
-  {
-    year: "2020 - PRESENT",
-    delayAnimation: "",
-    infoContent: [
-      {
-        title: "Product Designe Management",
-        subTitle: "Dribbble LLC, US",
-      },
-      {
-        title: "Art Director / Co-Founder",
-        subTitle: "Spotify",
-      },
-      {
-        title: "Founder",
-        subTitle: "iDesign Magazine",
-      },
-      {
-        title: "Author of The Book",
-        subTitle: "Work for Money, Design for Love",
+        title: "δημιουργία του project",
+        subTitle: "The Truth about Dogs",
       },
     ],
   },
