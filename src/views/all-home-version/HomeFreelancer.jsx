@@ -19,7 +19,7 @@ const HomeFreelancer = () => {
   return (
     <div className="ptf-site-wrapper animsition ptf-is--home-freelancer ">
       <Helmet>
-        <title>Moonex - Home Freelancer</title>
+        <title>Στέλλα Κεχαγιά - Φυσικοθεραπεία σε κατοικίδια</title>
       </Helmet>
       {/* End Page SEO Content */}
 
@@ -165,7 +165,7 @@ const HomeFreelancer = () => {
                   data-aos-delay="0"
                 >
                   <h2 className="h1 has-secondary-font fw-normal text-center">
-                    My Advantage
+                    Τα Πλεονεκτήματα μου
                   </h2>
                 </div>
                 {/* End title */}
@@ -224,7 +224,7 @@ const HomeFreelancer = () => {
                   data-aos-delay="0"
                 >
                   <h2 className="h1 has-secondary-font fw-normal text-center">
-                    Education & Experience
+                    Σπουδές & Εμπειρία
                   </h2>
                 </div>
                 {/* <!--Spacer--> */}
@@ -349,7 +349,7 @@ const HomeFreelancer = () => {
                   data-aos-delay="0"
                 >
                   <h2 className="has-secondary-font fw-normal text-center">
-                    <a href="#">@brunoerdison</a>
+                    <a href="#">@dog_physio_stella_kechagia</a>
                   </h2>
                 </div>
 
