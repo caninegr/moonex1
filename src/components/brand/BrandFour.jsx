@@ -1,31 +1,31 @@
 import React from "react";
 
 const brandContent = [
-  { dealyAnimation: "0", icon: "image-1", percentage: "90", title: "Figma" },
-  { dealyAnimation: "100", icon: "image-2", percentage: "95", title: "Sketch" },
+  { dealyAnimation: "0", icon: "image-1", percentage: "90", title: "Online Συνεδρίες" },
+  { dealyAnimation: "100", icon: "image-2", percentage: "95", title: "Υδροθεραπεία" },
   {
     dealyAnimation: "200",
     icon: "image-3",
     percentage: "82",
-    title: "Adobe XD",
+    title: "Βελονισμός",
   },
   {
     dealyAnimation: "300",
     icon: "image-4",
     percentage: "93",
-    title: "InvisionApp",
+    title: "Spectra Laser",
   },
   {
     dealyAnimation: "400",
     icon: "image-5",
     percentage: "76",
-    title: "Bootstrap",
+    title: "+2Feet",
   },
   {
     dealyAnimation: "500",
     icon: "image-6",
     percentage: "88",
-    title: "HTML5/CSS",
+    title: "Fitpaws",
   },
 ];
 
@@ -49,11 +49,11 @@ const BrandFour = () => {
                 <div className="ptf-advantage-box__image">
                   <img
                     src={`assets/img/root/advantages/${val.icon}.png`}
-                    alt="Figma"
+                    alt="my advantages"
                     loading="lazy"
                   />
                 </div>
-                <div className="ptf-advantage-box__value">{val.percentage}</div>
+                
               </div>
               <h6 className="ptf-advantage-box__title">{val.title}</h6>
             </div>
