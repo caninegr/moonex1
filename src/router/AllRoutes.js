@@ -1,5 +1,5 @@
 import React from "react";
-import Preview from "../views/Preview";
+// import Preview from "../views/Preview";
 // Homepage Demo
 import HomeDefault from "../views/all-home-version/HomeDefault";
 import HomeStudio from "../views/all-home-version/HomeStudio";
@@ -46,7 +46,7 @@ const AllRoutes = () => {
     <>
       <ScrollTopBehaviour />
       <Routes>
-        <Route path="/" element={<Preview />} />
+        <Route path="/" element={<HomeFreelancer />} />
         {/*  Homepage Demo */}
         <Route path="/home-default" element={<HomeDefault />} />
         <Route path="/home-studio" element={<HomeStudio />} />
