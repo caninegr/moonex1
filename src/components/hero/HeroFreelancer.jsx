@@ -1,9 +1,9 @@
 import React from "react";
 
 const heroContent = {
-  text1: "Bruno Erdison",
-  text2: " UI/UX Interaction Designer",
-  text3: " Based in Poland",
+  text1: "Στέλλα Κεχαγιά",
+  text2: " Φυσικοθεραπεία σε κατοικίδια",
+  text3: " στην Θεσσαλονίκη",
 };
 
 const HeroFreelancer = () => {
